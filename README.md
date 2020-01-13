@@ -1,7 +1,7 @@
 # Trabajos_2DG
 Lista de trabajos sistemas de representación avanzada
 
-· [Lloc web](https://eduferre.github.io/llocweb/)
+· [Lloc web]( https://eduferre.github.io/Lloc_web/)
 
 · [CMYK](https://eduferre.github.io/CMYK/)
 
